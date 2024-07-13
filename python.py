@@ -21,6 +21,6 @@ def generate_qr_code(data, filename):
     print(f"QR code saved as {filename}")
 
 # Example usage
-data = "https://parasshresthanever.vercel.app"
+data = "https://menu-sigma-bice.vercel.app/"
 filename = "qrcode.png"
 generate_qr_code(data, filename)
